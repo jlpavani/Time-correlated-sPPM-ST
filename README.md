@@ -6,7 +6,7 @@ Data and R code to support Pavani et al (2026).  In this paper, we adopt a proba
 
 If you find this code helpful and use it in your work, please cite our paper:
 
-> **Pavani, J.**; Loschi, R. H.; Quintana, F. A.: Modeling temporal dependence in a sequence of spatial random partitions driven by spanning trees: an application to mosquito-borne diseases. *Annals of Applied Statistics*, 2026. [[DOI]()]
+> **Pavani, J.**; Loschi, R. H.; Quintana, F. A.: Modeling temporal dependence in a sequence of spatial random partitions driven by spanning trees: an application to mosquito-borne diseases. *Annals of Applied Statistics*, 20(2), 1388-1408, 2026. [[DOI](https://doi.org/10.1214/26-AOAS2172)]
 
 ```bibtex
 @Article{Pavani2025,
@@ -14,10 +14,8 @@ If you find this code helpful and use it in your work, please cite our paper:
   journal = {Annals of Applied Statistics},
   title   = {Modeling temporal dependence in a sequence of spatial random partitions driven by spanning trees: an application to mosquito-borne diseases},
   year    = {2026},
-  number  = {},
-  pages   = {},
-  volume  = {},
-  doi     = {},
-  eprint  = {},
-  url     = {},
+  number  = {2},
+  pages   = {1388--1408},
+  volume  = {20},
+  doi     = {10.1214/26-AOAS2172}
 }
